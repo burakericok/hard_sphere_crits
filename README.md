@@ -26,6 +26,7 @@ For example, to plot the second critical point for five spheres:
 ## **References**
 Research into the topology of the configuration space of hard spheres is ongoing, but the references below provide some context for this project.
 
+- O. Ericok, K. Ganesan, J. Mason, [Configuration spaces of hard spheres](https://doi.org/10.1103/PhysRevE.104.055304), Phys. Rev. E 104, 055304 (2021).
 - Y. Baryshnikov, P. Bubenik, M. Kahle, [Min-type Morse theory for configuration spaces of hard spheres](https://doi.org/10.1093/imrn/rnt012), International Mathematics Research Notices 2014.9 (2014): 2577–2592.
 
 
